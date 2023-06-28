@@ -1,0 +1,8 @@
+#여러파일 xml로 관리하던걸 yml 하나로 관리가 가능해짐
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?serverTimezone=Asia/Seoul
+    username: cos
+    password: 1234
